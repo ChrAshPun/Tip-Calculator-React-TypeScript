@@ -1,3 +1,7 @@
+# Tip-Calculator-React-TypeScript
+
+A React/TypeScript application for calculating tip and total bill amount. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
